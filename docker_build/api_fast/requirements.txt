@@ -1,0 +1,8 @@
+fast-langdetect
+fastapi
+fasttext-predict
+loguru
+markdown-it-py
+MarkupSafe
+python-multipart
+uvicorn
