@@ -1,0 +1,391 @@
+[
+    {
+        "type": "text",
+        "text": "报销系统（同程商旅）-操作手册",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文档控制信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文档信息",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/56c28459845eb799e6d85410e5592709bee7f7664968a406d86e0220aa92f6c8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>文档名称</td><td>用户手册一报销系统 FNS</td></tr><tr><td>作者</td><td>财务产品</td></tr><tr><td>文档版本</td><td>V1.0</td></tr><tr><td>创建日期</td><td>2025-01-23</td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文档更新历史",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/034610f01ed422fb7e1588c0a57940a0cdffd1b1873ad985a1a337372d912056.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>版本</td><td>日期</td><td>新增/修改</td><td>修订人</td></tr><tr><td>V1.0</td><td>2025-01-23</td><td>初始版本</td><td>财务产品</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1、用户登录 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 报销系统 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 同程商旅 3",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2、单据申请及票务预定流程 4",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 预申请 4",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 票务预定 5",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 差旅对账 6",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3、常见问题及答疑 7",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "操作指引",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1、用户登录",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 报销系统",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户可以通过点单登录链接“single- sign- front- desk (gigacloudtech.com)”进入大健云仓协作平台，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户可以通过企业微信上扫一扫的功能扫描图中的二维码。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6862c8a23899e2effeb700c8894b2b8b551fe7ed4e8ee1dd4dc4752a2d7a8d9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "登入系统，也可以点击右上角切换成用户名和密码登入系统。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ae62d7ef22757edf6b2c37d438cb9d710f63ede6290313b3eff6571cebd64ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进入系统后，用户点击“报销系统”，进入报销系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/be0e43c62d97e4f24dd8c96030495147493f21681507358ddf3166a3f522a0a2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2 同程商旅",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "员工可以通过企业微信小程序点击登录到同程商旅平台进行票务预定，同程商旅平台支持手机端/PC端进行预定。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6b07b774f4bd6b3f1a1cc9de78565aeda60a77f961eae593df686cd1b12a012.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2、单据申请及票务预定流程",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 预申请",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "点击预申请模块 > 预申请，进入预申请页面。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "适用范围：费用类型为差旅费的预申请单",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7908d76ed2daa50234e6768d3e5df57f29a6775bbe78c5c634d25fb2e0cf538.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "预申请明细填写中的预申请申请人、申请人部门信息为个人基础信息会根据系统中维护的数据自动带出，且不可更改。国别，币种默认为对应国家的币种，自动带出，但是可更改。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "公司：请勿修改，默认为申请人基础信息对应公司；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "预计是否超标：出差预申请前请评估是否超标，若选择“否”，则超标自付部分将不允许补充报销；若选择“是”，则可以根据填写的预估费用金额补充报销超标自付部分；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "预估费用金额：出差预申请前请评估预估费用金额，该金额会影响是否允许报销超标自付部分费用；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "是否使用商旅：若选择“否”，则无法使用商旅订票；若选择“是”，该预申请单将同步商旅平台并允许票务预定；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "开始时间、结束时间：时间区间将控制可订票日期，超出区间的日期将无法进行订票，超出区间日期如需要使用同程商旅公司支付，则需要重新申请预申请单；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 票务预定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "是否使用商旅选择为“是”的单子将同步到同程商旅，员工可以通过企业微信小程序点击登录到同程商旅平台进行票务预定，同程商旅平台支持手机端/PC端进行预定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "进入同程商旅后，员工可以看到自己的预申请差旅单，点击预订即可预定对应票务，包括：“酒店”、“机票”、“火车”“用车”；",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：预定票务需要关联预申请单",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7d5eab00566b323a4099879cd9241952ee3fb4859eaf31210398c5398799b05.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 差旅对账",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于使用同程商旅进行订票的出差预申请单，在出差时间结束后，也就是预申请结束时间结束之后，员工可以在我的预申请查看本次出差对应的同程商旅使用金额，以及本次差补统计天数和记录月份。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "若该申请单还同时关联了其他费同程商旅的报销单，则会根据实际情况展示报销单号以及对应报销金额，方便本人及财务查看对应预申请单整体的报销金额总额。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/316402bbc931c8412df77fe80fc430cecb47842b762064ccef3444660787a367.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "差旅对账信息",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本次出差天数：0  $\\oplus$  本次出差的差补将计入2024年10月工资同程商旅使用金额：0人民币",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "关联报销单（非同程）：202411071224013",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报销单（非同程）关联金额：5000人民币",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "关联报销单（非同程）：20241122124084",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报销单（非同程）关联金额：1000人民币",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3、常见问题及答疑",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Q：用车有同程人时，需要填写员工编号，如何查询自己的员工编号？",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A：北森一我的档案中可以查看自己的员工编号，也可以询问人事自己的员工编号，北森查询具体路径如下。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PC：北森一我的档案进入后在如图所示位置",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/03c6545ecbc806be21a6fb05b6c40a70bb4ff224d17d212b95d764a2036d109e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e299a0fc03dbc454845be6a16b533afc1ee9acdd0ab87fc0ddeb486d4365208f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "移动端：北森—更多—我的档案进入后在如图所示位置",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1229b0ef8e9023a7ecc6ea9ae5316eb98288c7f834ca3d3eea068418a5da070.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Q：如何查询自己的差标？",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A：报销系统—预审模块—财务报销制度—六、报销具体规范（1. 差旅费）",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0695d4f3156a05b15444fe700154b431e3749b5f1f783e2545f9bcf1d662cdd3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdd31871cbbcb5b56e26e6b8ec32d550792f2e72649469cd785f72c66feee593.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Q：如何计算差补天数，若实际差补天数有问题应该如何处理？",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A：差补计算是根据同程订单日期进行计算，若行程单未使用同程商旅预定，则无法准确计算差补天数；具体规则：若有住宿则差补天数就等于住宿天数；若无住宿，则出差天数等于其他行程订单起止时间  $+1$ ；差补将计入工资进行发放，若发现差补天数和实际天数不一致，请联系人事进行核实并调整。",
+        "page_idx": 10
+    }
+]

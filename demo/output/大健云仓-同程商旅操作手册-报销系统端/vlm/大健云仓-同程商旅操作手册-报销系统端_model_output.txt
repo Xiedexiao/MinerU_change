@@ -1,0 +1,85 @@
+<|box_start|>248 413 723 529<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 报销系统（同程商旅）-操作手册<|md_end|>
+--------------------------------------------------
+<|box_start|>115 130 276 155<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 文档控制信息<|md_end|>
+<|box_start|>117 192 197 210<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 文档信息<|md_end|>
+<|box_start|>118 231 877 334<|box_end|><|ref_start|>table<|ref_end|><|md_start|><fcel>文档名称<fcel>用户手册一报销系统 FNS<nl>
+<fcel>作者<fcel>财务产品<nl>
+<fcel>文档版本<fcel>V1.0<nl>
+<fcel>创建日期<fcel>2025-01-23<nl><|md_end|>
+<|box_start|>115 348 237 368<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 文档更新历史<|md_end|>
+<|box_start|>119 388 874 532<|box_end|><|ref_start|>table<|ref_end|><|md_start|><fcel>版本<fcel>日期<fcel>新增/修改<fcel>修订人<nl>
+<fcel>V1.0<fcel>2025-01-23<fcel>初始版本<fcel>财务产品<nl>
+<ecel><ecel><ecel><ecel><nl>
+<ecel><ecel><ecel><ecel><nl>
+<ecel><ecel><ecel><ecel><nl><|md_end|>
+--------------------------------------------------
+<|box_start|>474 142 527 167<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 目录<|md_end|>
+<|box_start|>147 204 888 223<|box_end|><|ref_start|>text<|ref_end|><|md_start|>1、用户登录 2<|md_end|>
+<|box_start|>179 250 888 269<|box_end|><|ref_start|>text<|ref_end|><|md_start|>1.1 报销系统 2<|md_end|>
+<|box_start|>179 295 888 315<|box_end|><|ref_start|>text<|ref_end|><|md_start|>1.2 同程商旅 3<|md_end|>
+<|box_start|>148 340 888 359<|box_end|><|ref_start|>text<|ref_end|><|md_start|>2、单据申请及票务预定流程 4<|md_end|>
+<|box_start|>178 386 888 404<|box_end|><|ref_start|>text<|ref_end|><|md_start|>2.1 预申请 4<|md_end|>
+<|box_start|>178 432 888 450<|box_end|><|ref_start|>text<|ref_end|><|md_start|>2.2 票务预定 5<|md_end|>
+<|box_start|>178 478 888 496<|box_end|><|ref_start|>text<|ref_end|><|md_start|>2.3 差旅对账 6<|md_end|>
+<|box_start|>148 524 888 542<|box_end|><|ref_start|>text<|ref_end|><|md_start|>3、常见问题及答疑 7<|md_end|>
+--------------------------------------------------
+<|box_start|>149 112 260 136<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 操作指引<|md_end|>
+<|box_start|>151 164 303 188<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 1、用户登录<|md_end|>
+<|box_start|>151 219 292 240<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 1.1 报销系统<|md_end|>
+<|box_start|>148 272 837 287<|box_end|><|ref_start|>text<|ref_end|><|md_start|>用户可以通过点单登录链接“single- sign- front- desk (gigacloudtech.com)”进入大健云仓协作平台，<|md_end|>
+<|box_start|>149 299 536 315<|box_end|><|ref_start|>text<|ref_end|><|md_start|>用户可以通过企业微信上扫一扫的功能扫描图中的二维码。<|md_end|>
+<|box_start|>282 359 738 576<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+<|box_start|>148 587 552 602<|box_end|><|ref_start|>text<|ref_end|><|md_start|>登入系统，也可以点击右上角切换成用户名和密码登入系统。<|md_end|>
+<|box_start|>282 645 738 864<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+--------------------------------------------------
+<|box_start|>149 167 506 182<|box_end|><|ref_start|>text<|ref_end|><|md_start|>进入系统后，用户点击“报销系统”，进入报销系统。<|md_end|>
+<|box_start|>150 190 865 444<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+<|box_start|>151 491 292 512<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 1.2 同程商旅<|md_end|>
+<|box_start|>149 543 846 587<|box_end|><|ref_start|>text<|ref_end|><|md_start|>员工可以通过企业微信小程序点击登录到同程商旅平台进行票务预定，同程商旅平台支持手机端/PC端进行预定。<|md_end|>
+<|box_start|>151 599 777 900<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+--------------------------------------------------
+<|box_start|>149 112 494 135<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 2、单据申请及票务预定流程<|md_end|>
+<|box_start|>149 168 255 187<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 2.1 预申请<|md_end|>
+<|box_start|>150 219 457 234<|box_end|><|ref_start|>text<|ref_end|><|md_start|>点击预申请模块 > 预申请，进入预申请页面。<|md_end|>
+<|box_start|>149 247 425 262<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 适用范围：费用类型为差旅费的预申请单<|md_end|>
+<|box_start|>149 270 912 542<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+<|box_start|>149 553 851 597<|box_end|><|ref_start|>text<|ref_end|><|md_start|>预申请明细填写中的预申请申请人、申请人部门信息为个人基础信息会根据系统中维护的数据自动带出，且不可更改。国别，币种默认为对应国家的币种，自动带出，但是可更改。<|md_end|>
+<|box_start|>149 608 528 624<|box_end|><|ref_start|>text<|ref_end|><|md_start|>公司：请勿修改，默认为申请人基础信息对应公司；<|md_end|>
+<|box_start|>149 636 847 680<|box_end|><|ref_start|>text<|ref_end|><|md_start|>预计是否超标：出差预申请前请评估是否超标，若选择“否”，则超标自付部分将不允许补充报销；若选择“是”，则可以根据填写的预估费用金额补充报销超标自付部分；<|md_end|>
+<|box_start|>148 691 851 708<|box_end|><|ref_start|>text<|ref_end|><|md_start|>预估费用金额：出差预申请前请评估预估费用金额，该金额会影响是否允许报销超标自付部分费用；<|md_end|>
+<|box_start|>149 719 853 763<|box_end|><|ref_start|>text<|ref_end|><|md_start|>是否使用商旅：若选择“否”，则无法使用商旅订票；若选择“是”，该预申请单将同步商旅平台并允许票务预定；<|md_end|>
+<|box_start|>150 775 853 819<|box_end|><|ref_start|>text<|ref_end|><|md_start|>开始时间、结束时间：时间区间将控制可订票日期，超出区间的日期将无法进行订票，超出区间日期如需要使用同程商旅公司支付，则需要重新申请预申请单；<|md_end|>
+--------------------------------------------------
+<|box_start|>149 115 275 133<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 2.2 票务预定<|md_end|>
+<|box_start|>149 165 850 209<|box_end|><|ref_start|>text<|ref_end|><|md_start|>是否使用商旅选择为“是”的单子将同步到同程商旅，员工可以通过企业微信小程序点击登录到同程商旅平台进行票务预定，同程商旅平台支持手机端/PC端进行预定。<|md_end|>
+<|box_start|>157 221 850 264<|box_end|><|ref_start|>text<|ref_end|><|md_start|>进入同程商旅后，员工可以看到自己的预申请差旅单，点击预订即可预定对应票务，包括：“酒店”、“机票”、“火车”“用车”；<|md_end|>
+<|box_start|>178 277 394 291<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 注：预定票务需要关联预申请单<|md_end|>
+<|box_start|>151 306 888 567<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+--------------------------------------------------
+<|box_start|>149 114 275 133<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 2.3 差旅对账<|md_end|>
+<|box_start|>149 165 851 209<|box_end|><|ref_start|>text<|ref_end|><|md_start|>对于使用同程商旅进行订票的出差预申请单，在出差时间结束后，也就是预申请结束时间结束之后，员工可以在我的预申请查看本次出差对应的同程商旅使用金额，以及本次差补统计天数和记录月份。<|md_end|>
+<|box_start|>149 221 851 264<|box_end|><|ref_start|>text<|ref_end|><|md_start|>若该申请单还同时关联了其他费同程商旅的报销单，则会根据实际情况展示报销单号以及对应报销金额，方便本人及财务查看对应预申请单整体的报销金额总额。<|md_end|>
+<|box_start|>150 273 907 543<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+<|box_start|>167 562 256 576<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 差旅对账信息<|md_end|>
+<|box_start|>166 603 502 633<|box_end|><|ref_start|>text<|ref_end|><|md_start|>本次出差天数：0 \(\oplus\) 本次出差的差补将计入2024年10月工资同程商旅使用金额：0人民币<|md_end|>
+<|box_start|>166 655 363 667<|box_end|><|ref_start|>text<|ref_end|><|md_start|>关联报销单（非同程）：202411071224013<|md_end|>
+<|box_start|>166 673 358 684<|box_end|><|ref_start|>text<|ref_end|><|md_start|>报销单（非同程）关联金额：5000人民币<|md_end|>
+<|box_start|>166 695 362 706<|box_end|><|ref_start|>text<|ref_end|><|md_start|>关联报销单（非同程）：20241122124084<|md_end|>
+<|box_start|>166 712 358 724<|box_end|><|ref_start|>text<|ref_end|><|md_start|>报销单（非同程）关联金额：1000人民币<|md_end|>
+--------------------------------------------------
+<|box_start|>150 112 384 135<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 3、常见问题及答疑<|md_end|>
+<|box_start|>148 163 612 180<|box_end|><|ref_start|>text<|ref_end|><|md_start|>Q：用车有同程人时，需要填写员工编号，如何查询自己的员工编号？<|md_end|>
+<|box_start|>149 191 849 234<|box_end|><|ref_start|>text<|ref_end|><|md_start|>A：北森一我的档案中可以查看自己的员工编号，也可以询问人事自己的员工编号，北森查询具体路径如下。<|md_end|>
+<|box_start|>149 247 455 262<|box_end|><|ref_start|>text<|ref_end|><|md_start|>PC：北森一我的档案进入后在如图所示位置<|md_end|>
+<|box_start|>149 272 863 523<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+<|box_start|>151 534 866 780<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+--------------------------------------------------
+<|box_start|>149 139 527 155<|box_end|><|ref_start|>title<|ref_end|><|md_start|># 移动端：北森—更多—我的档案进入后在如图所示位置<|md_end|>
+<|box_start|>149 162 822 658<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+--------------------------------------------------
+<|box_start|>149 140 326 154<|box_end|><|ref_start|>title<|ref_end|><|md_start|># Q：如何查询自己的差标？<|md_end|>
+<|box_start|>149 167 640 183<|box_end|><|ref_start|>text<|ref_end|><|md_start|>A：报销系统—预审模块—财务报销制度—六、报销具体规范（1. 差旅费）<|md_end|>
+<|box_start|>149 195 892 458<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+<|box_start|>150 473 893 737<|box_end|><|ref_start|>image<|ref_end|><|md_start|>![]('img_url')<|md_end|>
+<|box_start|>148 779 566 794<|box_end|><|ref_start|>text<|ref_end|><|md_start|>Q：如何计算差补天数，若实际差补天数有问题应该如何处理？<|md_end|>
+<|box_start|>148 806 846 879<|box_end|><|ref_start|>text<|ref_end|><|md_start|>A：差补计算是根据同程订单日期进行计算，若行程单未使用同程商旅预定，则无法准确计算差补天数；具体规则：若有住宿则差补天数就等于住宿天数；若无住宿，则出差天数等于其他行程订单起止时间 \(+1\)；差补将计入工资进行发放，若发现差补天数和实际天数不一致，请联系人事进行核实并调整。<|md_end|>

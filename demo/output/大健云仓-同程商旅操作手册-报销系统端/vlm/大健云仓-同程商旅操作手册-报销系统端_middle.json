@@ -1,0 +1,2521 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        151,
+                        327,
+                        442,
+                        418
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                151,
+                                327,
+                                442,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        151,
+                                        327,
+                                        442,
+                                        418
+                                    ],
+                                    "type": "text",
+                                    "content": "报销系统（同程商旅）-操作手册"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        70,
+                        102,
+                        168,
+                        122
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                102,
+                                168,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        102,
+                                        168,
+                                        122
+                                    ],
+                                    "type": "text",
+                                    "content": "文档控制信息"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        71,
+                        152,
+                        120,
+                        166
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                152,
+                                120,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        152,
+                                        120,
+                                        166
+                                    ],
+                                    "type": "text",
+                                    "content": "文档信息"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "level": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        72,
+                        182,
+                        536,
+                        264
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                182,
+                                536,
+                                264
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        182,
+                                        536,
+                                        264
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                182,
+                                                536,
+                                                264
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>文档名称</td><td>用户手册一报销系统 FNS</td></tr><tr><td>作者</td><td>财务产品</td></tr><tr><td>文档版本</td><td>V1.0</td></tr><tr><td>创建日期</td><td>2025-01-23</td></tr></table>",
+                                            "image_path": "56c28459845eb799e6d85410e5592709bee7f7664968a406d86e0220aa92f6c8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        70,
+                        275,
+                        145,
+                        291
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                275,
+                                145,
+                                291
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        275,
+                                        145,
+                                        291
+                                    ],
+                                    "type": "text",
+                                    "content": "文档更新历史"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "level": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        72,
+                        307,
+                        534,
+                        421
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                307,
+                                534,
+                                421
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        307,
+                                        534,
+                                        421
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                307,
+                                                534,
+                                                421
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>版本</td><td>日期</td><td>新增/修改</td><td>修订人</td></tr><tr><td>V1.0</td><td>2025-01-23</td><td>初始版本</td><td>财务产品</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "034610f01ed422fb7e1588c0a57940a0cdffd1b1873ad985a1a337372d912056.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        290,
+                        112,
+                        322,
+                        132
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                290,
+                                112,
+                                322,
+                                132
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        112,
+                                        322,
+                                        132
+                                    ],
+                                    "type": "text",
+                                    "content": "目录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        89,
+                        161,
+                        543,
+                        176
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                161,
+                                543,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        161,
+                                        543,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "1、用户登录 2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        109,
+                        198,
+                        543,
+                        213
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                198,
+                                543,
+                                213
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        198,
+                                        543,
+                                        213
+                                    ],
+                                    "type": "text",
+                                    "content": "1.1 报销系统 2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        109,
+                        233,
+                        543,
+                        249
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                233,
+                                543,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        233,
+                                        543,
+                                        249
+                                    ],
+                                    "type": "text",
+                                    "content": "1.2 同程商旅 3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        90,
+                        269,
+                        543,
+                        284
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                269,
+                                543,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        269,
+                                        543,
+                                        284
+                                    ],
+                                    "type": "text",
+                                    "content": "2、单据申请及票务预定流程 4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        108,
+                        305,
+                        543,
+                        319
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                305,
+                                543,
+                                319
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        305,
+                                        543,
+                                        319
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1 预申请 4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        108,
+                        342,
+                        543,
+                        356
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                342,
+                                543,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        342,
+                                        543,
+                                        356
+                                    ],
+                                    "type": "text",
+                                    "content": "2.2 票务预定 5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        108,
+                        378,
+                        543,
+                        392
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                378,
+                                543,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        378,
+                                        543,
+                                        392
+                                    ],
+                                    "type": "text",
+                                    "content": "2.3 差旅对账 6"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        90,
+                        415,
+                        543,
+                        429
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                415,
+                                543,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        415,
+                                        543,
+                                        429
+                                    ],
+                                    "type": "text",
+                                    "content": "3、常见问题及答疑 7"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        94,
+                        154,
+                        114
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                94,
+                                154,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        94,
+                                        154,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "操作指引"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        89,
+                        137,
+                        180,
+                        158
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                137,
+                                180,
+                                158
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        137,
+                                        180,
+                                        158
+                                    ],
+                                    "type": "text",
+                                    "content": "1、用户登录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        89,
+                        184,
+                        173,
+                        201
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                184,
+                                173,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        184,
+                                        173,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "1.1 报销系统"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        228,
+                        498,
+                        241
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                228,
+                                498,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        228,
+                                        498,
+                                        241
+                                    ],
+                                    "type": "text",
+                                    "content": "用户可以通过点单登录链接“single- sign- front- desk (gigacloudtech.com)”进入大健云仓协作平台，"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        88,
+                        251,
+                        318,
+                        264
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                251,
+                                318,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        251,
+                                        318,
+                                        264
+                                    ],
+                                    "type": "text",
+                                    "content": "用户可以通过企业微信上扫一扫的功能扫描图中的二维码。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        167,
+                        301,
+                        439,
+                        484
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                167,
+                                301,
+                                439,
+                                484
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        301,
+                                        439,
+                                        484
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                167,
+                                                301,
+                                                439,
+                                                484
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f6862c8a23899e2effeb700c8894b2b8b551fe7ed4e8ee1dd4dc4752a2d7a8d9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        88,
+                        493,
+                        328,
+                        506
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                493,
+                                328,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        493,
+                                        328,
+                                        506
+                                    ],
+                                    "type": "text",
+                                    "content": "登入系统，也可以点击右上角切换成用户名和密码登入系统。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        167,
+                        542,
+                        439,
+                        726
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                167,
+                                542,
+                                439,
+                                726
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        542,
+                                        439,
+                                        726
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                167,
+                                                542,
+                                                439,
+                                                726
+                                            ],
+                                            "type": "image",
+                                            "image_path": "3ae62d7ef22757edf6b2c37d438cb9d710f63ede6290313b3eff6571cebd64ef.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        140,
+                        301,
+                        153
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                140,
+                                301,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        140,
+                                        301,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "进入系统后，用户点击“报销系统”，进入报销系统。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        159,
+                        514,
+                        373
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                159,
+                                514,
+                                373
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        159,
+                                        514,
+                                        373
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                159,
+                                                514,
+                                                373
+                                            ],
+                                            "type": "image",
+                                            "image_path": "be0e43c62d97e4f24dd8c96030495147493f21681507358ddf3166a3f522a0a2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        89,
+                        412,
+                        173,
+                        430
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                412,
+                                173,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        412,
+                                        173,
+                                        430
+                                    ],
+                                    "type": "text",
+                                    "content": "1.2 同程商旅"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        456,
+                        503,
+                        493
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                456,
+                                503,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        456,
+                                        503,
+                                        493
+                                    ],
+                                    "type": "text",
+                                    "content": "员工可以通过企业微信小程序点击登录到同程商旅平台进行票务预定，同程商旅平台支持手机端/PC端进行预定。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        503,
+                        462,
+                        756
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                503,
+                                462,
+                                756
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        503,
+                                        462,
+                                        756
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                503,
+                                                462,
+                                                756
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c6b07b774f4bd6b3f1a1cc9de78565aeda60a77f961eae593df686cd1b12a012.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        94,
+                        293,
+                        113
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                94,
+                                293,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        94,
+                                        293,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "2、单据申请及票务预定流程"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        141,
+                        151,
+                        157
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                141,
+                                151,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        141,
+                                        151,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1 预申请"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        89,
+                        184,
+                        271,
+                        196
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                184,
+                                271,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        184,
+                                        271,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "点击预申请模块 > 预申请，进入预申请页面。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        88,
+                        207,
+                        252,
+                        220
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                207,
+                                252,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        207,
+                                        252,
+                                        220
+                                    ],
+                                    "type": "text",
+                                    "content": "适用范围：费用类型为差旅费的预申请单"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "level": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        227,
+                        542,
+                        455
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                227,
+                                542,
+                                455
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        227,
+                                        542,
+                                        455
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                227,
+                                                542,
+                                                455
+                                            ],
+                                            "type": "image",
+                                            "image_path": "e7908d76ed2daa50234e6768d3e5df57f29a6775bbe78c5c634d25fb2e0cf538.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        88,
+                        465,
+                        506,
+                        502
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                465,
+                                506,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        465,
+                                        506,
+                                        502
+                                    ],
+                                    "type": "text",
+                                    "content": "预申请明细填写中的预申请申请人、申请人部门信息为个人基础信息会根据系统中维护的数据自动带出，且不可更改。国别，币种默认为对应国家的币种，自动带出，但是可更改。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        88,
+                        511,
+                        314,
+                        524
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                511,
+                                314,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        511,
+                                        314,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "公司：请勿修改，默认为申请人基础信息对应公司；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        88,
+                        534,
+                        503,
+                        571
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                534,
+                                503,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        534,
+                                        503,
+                                        571
+                                    ],
+                                    "type": "text",
+                                    "content": "预计是否超标：出差预申请前请评估是否超标，若选择“否”，则超标自付部分将不允许补充报销；若选择“是”，则可以根据填写的预估费用金额补充报销超标自付部分；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        88,
+                        581,
+                        506,
+                        595
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                581,
+                                506,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        581,
+                                        506,
+                                        595
+                                    ],
+                                    "type": "text",
+                                    "content": "预估费用金额：出差预申请前请评估预估费用金额，该金额会影响是否允许报销超标自付部分费用；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        88,
+                        604,
+                        507,
+                        641
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                604,
+                                507,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        604,
+                                        507,
+                                        641
+                                    ],
+                                    "type": "text",
+                                    "content": "是否使用商旅：若选择“否”，则无法使用商旅订票；若选择“是”，该预申请单将同步商旅平台并允许票务预定；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        89,
+                        651,
+                        507,
+                        688
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                651,
+                                507,
+                                688
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        651,
+                                        507,
+                                        688
+                                    ],
+                                    "type": "text",
+                                    "content": "开始时间、结束时间：时间区间将控制可订票日期，超出区间的日期将无法进行订票，超出区间日期如需要使用同程商旅公司支付，则需要重新申请预申请单；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        96,
+                        163,
+                        111
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                96,
+                                163,
+                                111
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        96,
+                                        163,
+                                        111
+                                    ],
+                                    "type": "text",
+                                    "content": "2.2 票务预定"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        138,
+                        505,
+                        175
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                138,
+                                505,
+                                175
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        138,
+                                        505,
+                                        175
+                                    ],
+                                    "type": "text",
+                                    "content": "是否使用商旅选择为“是”的单子将同步到同程商旅，员工可以通过企业微信小程序点击登录到同程商旅平台进行票务预定，同程商旅平台支持手机端/PC端进行预定。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        93,
+                        185,
+                        505,
+                        222
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                185,
+                                505,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        185,
+                                        505,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "进入同程商旅后，员工可以看到自己的预申请差旅单，点击预订即可预定对应票务，包括：“酒店”、“机票”、“火车”“用车”；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        105,
+                        232,
+                        234,
+                        244
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                232,
+                                234,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        232,
+                                        234,
+                                        244
+                                    ],
+                                    "type": "text",
+                                    "content": "注：预定票务需要关联预申请单"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "level": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        257,
+                        528,
+                        476
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                257,
+                                528,
+                                476
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        257,
+                                        528,
+                                        476
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                257,
+                                                528,
+                                                476
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f7d5eab00566b323a4099879cd9241952ee3fb4859eaf31210398c5398799b05.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        95,
+                        163,
+                        111
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                95,
+                                163,
+                                111
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        95,
+                                        163,
+                                        111
+                                    ],
+                                    "type": "text",
+                                    "content": "2.3 差旅对账"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        138,
+                        506,
+                        175
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                138,
+                                506,
+                                175
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        138,
+                                        506,
+                                        175
+                                    ],
+                                    "type": "text",
+                                    "content": "对于使用同程商旅进行订票的出差预申请单，在出差时间结束后，也就是预申请结束时间结束之后，员工可以在我的预申请查看本次出差对应的同程商旅使用金额，以及本次差补统计天数和记录月份。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        185,
+                        506,
+                        222
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                185,
+                                506,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        185,
+                                        506,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "若该申请单还同时关联了其他费同程商旅的报销单，则会根据实际情况展示报销单号以及对应报销金额，方便本人及财务查看对应预申请单整体的报销金额总额。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        229,
+                        539,
+                        456
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                229,
+                                539,
+                                456
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        229,
+                                        539,
+                                        456
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                229,
+                                                539,
+                                                456
+                                            ],
+                                            "type": "image",
+                                            "image_path": "316402bbc931c8412df77fe80fc430cecb47842b762064ccef3444660787a367.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        99,
+                        472,
+                        152,
+                        484
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                472,
+                                152,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        472,
+                                        152,
+                                        484
+                                    ],
+                                    "type": "text",
+                                    "content": "差旅对账信息"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        98,
+                        507,
+                        298,
+                        532
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                507,
+                                298,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        507,
+                                        298,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": "本次出差天数：0 "
+                                },
+                                {
+                                    "bbox": [
+                                        98,
+                                        507,
+                                        298,
+                                        532
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\oplus"
+                                },
+                                {
+                                    "bbox": [
+                                        98,
+                                        507,
+                                        298,
+                                        532
+                                    ],
+                                    "type": "text",
+                                    "content": " 本次出差的差补将计入2024年10月工资同程商旅使用金额：0人民币"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        98,
+                        550,
+                        215,
+                        560
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                550,
+                                215,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        550,
+                                        215,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "关联报销单（非同程）：202411071224013"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        98,
+                        565,
+                        213,
+                        575
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                565,
+                                213,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        565,
+                                        213,
+                                        575
+                                    ],
+                                    "type": "text",
+                                    "content": "报销单（非同程）关联金额：5000人民币"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        98,
+                        584,
+                        215,
+                        593
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                584,
+                                215,
+                                593
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        584,
+                                        215,
+                                        593
+                                    ],
+                                    "type": "text",
+                                    "content": "关联报销单（非同程）：20241122124084"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        98,
+                        598,
+                        213,
+                        608
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                598,
+                                213,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        598,
+                                        213,
+                                        608
+                                    ],
+                                    "type": "text",
+                                    "content": "报销单（非同程）关联金额：1000人民币"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        89,
+                        94,
+                        228,
+                        113
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                94,
+                                228,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        94,
+                                        228,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "3、常见问题及答疑"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        137,
+                        364,
+                        151
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                137,
+                                364,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        137,
+                                        364,
+                                        151
+                                    ],
+                                    "type": "text",
+                                    "content": "Q：用车有同程人时，需要填写员工编号，如何查询自己的员工编号？"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        160,
+                        505,
+                        196
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                160,
+                                505,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        160,
+                                        505,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "A：北森一我的档案中可以查看自己的员工编号，也可以询问人事自己的员工编号，北森查询具体路径如下。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        88,
+                        207,
+                        270,
+                        220
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                207,
+                                270,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        207,
+                                        270,
+                                        220
+                                    ],
+                                    "type": "text",
+                                    "content": "PC：北森一我的档案进入后在如图所示位置"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        228,
+                        513,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                228,
+                                513,
+                                439
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        228,
+                                        513,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                228,
+                                                513,
+                                                439
+                                            ],
+                                            "type": "image",
+                                            "image_path": "03c6545ecbc806be21a6fb05b6c40a70bb4ff224d17d212b95d764a2036d109e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        449,
+                        515,
+                        655
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                449,
+                                515,
+                                655
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        449,
+                                        515,
+                                        655
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                449,
+                                                515,
+                                                655
+                                            ],
+                                            "type": "image",
+                                            "image_path": "e299a0fc03dbc454845be6a16b533afc1ee9acdd0ab87fc0ddeb486d4365208f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        116,
+                        313,
+                        130
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                116,
+                                313,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        116,
+                                        313,
+                                        130
+                                    ],
+                                    "type": "text",
+                                    "content": "移动端：北森—更多—我的档案进入后在如图所示位置"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        136,
+                        489,
+                        553
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                136,
+                                489,
+                                553
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        136,
+                                        489,
+                                        553
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                136,
+                                                489,
+                                                553
+                                            ],
+                                            "type": "image",
+                                            "image_path": "d1229b0ef8e9023a7ecc6ea9ae5316eb98288c7f834ca3d3eea068418a5da070.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        117,
+                        193,
+                        129
+                    ],
+                    "type": "title",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                117,
+                                193,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        117,
+                                        193,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Q：如何查询自己的差标？"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "level": 1
+                },
+                {
+                    "bbox": [
+                        88,
+                        140,
+                        380,
+                        153
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                140,
+                                380,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        140,
+                                        380,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "A：报销系统—预审模块—财务报销制度—六、报销具体规范（1. 差旅费）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        163,
+                        530,
+                        385
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                163,
+                                530,
+                                385
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        163,
+                                        530,
+                                        385
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                163,
+                                                530,
+                                                385
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0695d4f3156a05b15444fe700154b431e3749b5f1f783e2545f9bcf1d662cdd3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        397,
+                        531,
+                        619
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                397,
+                                531,
+                                619
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        397,
+                                        531,
+                                        619
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                397,
+                                                531,
+                                                619
+                                            ],
+                                            "type": "image",
+                                            "image_path": "fdd31871cbbcb5b56e26e6b8ec32d550792f2e72649469cd785f72c66feee593.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        88,
+                        655,
+                        336,
+                        667
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                655,
+                                336,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        655,
+                                        336,
+                                        667
+                                    ],
+                                    "type": "text",
+                                    "content": "Q：如何计算差补天数，若实际差补天数有问题应该如何处理？"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        88,
+                        677,
+                        503,
+                        739
+                    ],
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                677,
+                                503,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        677,
+                                        503,
+                                        739
+                                    ],
+                                    "type": "text",
+                                    "content": "A：差补计算是根据同程订单日期进行计算，若行程单未使用同程商旅预定，则无法准确计算差补天数；具体规则：若有住宿则差补天数就等于住宿天数；若无住宿，则出差天数等于其他行程订单起止时间 "
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        677,
+                                        503,
+                                        739
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "+1"
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        677,
+                                        503,
+                                        739
+                                    ],
+                                    "type": "text",
+                                    "content": "；差补将计入工资进行发放，若发现差补天数和实际天数不一致，请联系人事进行核实并调整。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 10
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.1.1"
+}

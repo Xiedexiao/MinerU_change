@@ -1,19 +1,22 @@
 services:
   mineru-sglang-server:
-    image: mineru-sglang:20250720
+    image: mineru-sglang_change:20250721
     container_name: mineru-sglang-server
     restart: always
     profiles: ["sglang-server"]
     ports:
       - 30000:30000
+      - 8000:8000
     environment:
       MINERU_MODEL_SOURCE: local
+      START_TYPE: sglang
+      TZ: Asia/Shanghai
     # volumes:
     #   - ./mineru.json:/root/mineru.json
-    entrypoint: mineru-sglang-server
-    command:
-      --host 0.0.0.0
-      --port 30000
+    # entrypoint: mineru-sglang-server
+    # command:
+    #   --host 0.0.0.0
+    #   --port 30000
       # --enable-torch-compile  # You can also enable torch.compile to accelerate inference speed by approximately 15%
       # --dp-size 2  # If using multiple GPUs, increase throughput using sglang's multi-GPU parallel mode
       # --tp-size 2  # If you have more than one GPU, you can expand available VRAM using tensor parallelism (TP) mode.
@@ -41,12 +44,14 @@ services:
       - 8000:8000
     environment:
       MINERU_MODEL_SOURCE: local
+      START_TYPE: api
+      TZ: Asia/Shanghai
     # volumes:
     #   - ./mineru.json:/root/mineru.json
-    entrypoint: mineru-api
-    command:
-      --host 0.0.0.0
-      --port 8000
+    # entrypoint: mineru-api
+    # command:
+    #   --host 0.0.0.0
+    #   --port 8000
       # parameters for sglang-engine
       # --enable-torch-compile  # You can also enable torch.compile to accelerate inference speed by approximately 15%
       # --dp-size 2  # If using multiple GPUs, increase throughput using sglang's multi-GPU parallel mode
@@ -70,16 +75,19 @@ services:
     restart: always
     profiles: ["gradio"]
     ports:
-      - 7860:7860
+      # - 7860:7860
+      - 8000:8000
     environment:
       MINERU_MODEL_SOURCE: local
+      START_TYPE: gradio
+      TZ: Asia/Shanghai
     # volumes:
     #   - ./mineru.json:/root/mineru.json
-    entrypoint: mineru-gradio
-    command:
-      --server-name 0.0.0.0
-      --server-port 7860
-      --enable-sglang-engine true  # Enable the sglang engine for Gradio
+    # entrypoint: mineru-gradio
+    # command:
+    #   --server-name 0.0.0.0
+    #   --server-port 7860
+    #   --enable-sglang-engine true  # Enable the sglang engine for Gradio
       # --enable-api false  # If you want to disable the API, set this to false
       # --max-convert-pages 20  # If you want to limit the number of pages for conversion, set this to a specific number
       # parameters for sglang-engine
